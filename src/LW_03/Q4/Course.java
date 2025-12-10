@@ -29,4 +29,12 @@ public class Course {
     public void setLecture(Lecture lecture) {
         this.lecture = lecture;
     }
+
+    public String getName() {
+        return null;
+    }
+
+    public void displayInfo() {
+
+    }
 }
