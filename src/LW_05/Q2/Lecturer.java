@@ -83,8 +83,6 @@ public class Lecturer extends Person{
     }
 
 
-
-
-
-
+    public void addCourse(LW_05.Q2.Course course) {
+    }
 }
