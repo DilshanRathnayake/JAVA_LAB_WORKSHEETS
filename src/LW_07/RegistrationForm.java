@@ -1,6 +1,5 @@
 package LW_07;
 
-// Removed unused import: javax.management.MBeanRegistration;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
